@@ -1,6 +1,6 @@
 {
-  "name": "@google/generative-ai",
-  "version": "0.18.0",
+  "name": "generative-ai-ansatz",
+  "version": "0.17.0",
   "description": "Google AI JavaScript SDK",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -81,12 +81,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/google/generative-ai-js.git"
+    "url": "git+https://github.com/ansatzX/generative-ai-js.git"
   },
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/google/generative-ai-js/issues"
+    "url": "https://github.com/ansatzX/generative-ai-js/issues"
   },
-  "homepage": "https://github.com/google/generative-ai-js#readme"
+  "homepage": "https://github.com/ansatzX/generative-ai-js#readme",
+  "dependencies": {
+    "yarn": "^1.22.22"
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
