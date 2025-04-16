@@ -22,8 +22,8 @@ import {
   GoogleGenerativeAIRequestInputError,
 } from "../errors";
 
-export const DEFAULT_BASE_URL = "https://generativelanguage.googleapis.com";
-
+// export const DEFAULT_BASE_URL = "https://generativelanguage.googleapis.com";
+export const DEFAULT_BASE_URL = "https://gemini.baipiao.io";
 export const DEFAULT_API_VERSION = "v1beta";
 
 /**

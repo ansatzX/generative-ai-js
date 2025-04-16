@@ -1,13 +1,13 @@
 {
   "name": "generative-ai-ansatz",
-  "version": "0.17.0",
+  "version": "0.17.2",
   "description": "Google AI JavaScript SDK",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
-  "typings": "dist/generative-ai.d.ts",
+  "typings": "dist/generative-ai-ansatz.d.ts",
   "exports": {
     ".": {
-      "types": "./dist/generative-ai.d.ts",
+      "types": "./dist/generative-ai-ansatz.d.ts",
       "require": "./dist/index.js",
       "import": "./dist/index.mjs",
       "default": "./dist/index.js"
